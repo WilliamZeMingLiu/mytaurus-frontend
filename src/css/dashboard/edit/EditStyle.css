@@ -1,0 +1,17 @@
+.menuButton {
+    width: 33.33333%
+}
+
+#menuContainer {
+    margin-top: 32px;
+}
+
+.menuTitleContainer {
+    background-color: #2980b9 !important;
+    margin-top: 16px;
+}
+
+.menuTitleContainer span {
+    color: white;
+    font-size: 18px;
+}
